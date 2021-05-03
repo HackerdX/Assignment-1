@@ -1,3 +1,12 @@
+#Some extra Description
+I didn’t implemented a login page...Directly implemented the application
+
+A list of people having their names, gender and profile pic.
+Also it has infinite scroll feature. When scroll bar comes below, it loads the next series of list.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

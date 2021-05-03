@@ -1,4 +1,4 @@
-#Some extra Description
+# Some extra Description
 I didn’t implemented a login page...Directly implemented the application
 
 A list of people having their names, gender and profile pic.
